@@ -39,6 +39,7 @@
 | tensorflow-gpu |  2.3.0   |
 | opencv-python  | 4.4.0.46 |
 |   matplotlib   |  3.4.2   |
+|     Matlab     |  R2020a  |
 
 
 
